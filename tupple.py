@@ -17,4 +17,4 @@ my_colors=("pink","red","yellow","green")
 y=list(my_colors)
 y.remove("pink")
 y.remove("green")
-my_colors = tuple()
+my_colors = tuple
